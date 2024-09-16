@@ -1,7 +1,7 @@
 # MTS Internship
 
 ```bash
-python3 -m venv env
+python3 -m venv mts_env
 ```
 
 ```bash
